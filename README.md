@@ -9,7 +9,7 @@ This website is fully created with core CSS and HTML
 ![badge](https://img.shields.io/badge/HTML-CSS-green)
 
 
-If want to check the live projet click the link and we will **SERVE** you the page: [HUNGRY????](https://justice-by-hitesh.netlify.app/)
+If want to check the live projet click the link and we will **SERVE** you the page: [HUNGRY????](https://adirestaurant.netlify.app/)
 
 
 
